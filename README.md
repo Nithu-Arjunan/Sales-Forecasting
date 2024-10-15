@@ -1,4 +1,4 @@
-[sales.csv](https://github.com/user-attachments/files/17383640/sales.csv)Project involves sales forecasting using algorithms such as Random Forest, XGBoost and LSTM models.
+Project involves sales forecasting using algorithms such as Random Forest, XGBoost and LSTM models.
 Steps involved :
 Importing the dataset to the python environment.
 Examining the shape and structure of the dataset and checking for outliers.
